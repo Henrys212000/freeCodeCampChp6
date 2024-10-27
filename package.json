@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Veronica Sarungba",
+  "author": "Chilton Sarungba",
   "license": "ISC"
 }
