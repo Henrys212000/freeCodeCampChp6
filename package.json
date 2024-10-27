@@ -1,11 +1,11 @@
 {
   "name": "chpsix",
   "version": "1.0.0",
-  "description": "",
+  "description": "Training",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Chilton Sarungba",
+  "author": "Veronica Sarungba",
   "license": "ISC"
 }
